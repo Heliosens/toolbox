@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+ul li {
+    flex-basis: 25%;
+    border: 1px solid red;
+}
+
+ul a {
+    text-decoration-line: none;
+    padding: 1rem;
+
+    border: 1px black solid;
+}
+
