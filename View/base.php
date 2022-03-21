@@ -10,24 +10,25 @@
 </head>
 <body>
     <header>
-        <div>
+        <h1>
             <img src="/img/logo.jpg" alt="logo de La 3CA">
-            <span>Communauté de Commune du Coeur de l'Avesnois</span>
+            <span>So' D'Avesnois</span>
+        </h1>
+        <div>
+            <nav>
+                <ul>
+                    <li><a href="">ACCUEIL</a></li>
+                    <li><a href="">ACTIVITES SPORTIVES</a></li>
+                    <li><a href="">SORTIES CULTURELLES</a></li>
+                    <li><a href="">LE NUMERIQUE</a></li>
+                    <li><a href="">UTILE</a></li>
+                </ul>
+            </nav>
         </div>
         <nav>
-            <ul>
-                <li><a href="">ACCUEIL</a></li>
-                <li><a href="">ACTIVITES SPORTIVES</a></li>
-                <li><a href="">SORTIES CULTURELLES</a></li>
-                <li><a href="">LE NUMERIQUE</a></li>
-                <li><a href="">UTILE</a></li>
-                <li><a href="">
-                        <img id="glass" src="/img/blue-glass.png" alt="">
-                    </a></li>
-                <li><a href="">
-                    <img id="logoUser" src="/img/blueUser.png" alt="">
-                </a></li>
-            </ul>
+            <a href="">Inscription</a>
+            <a href="">Connexion</a>
+            <a href="">Déconnexion</a>
         </nav>
     </header>
     <section>
