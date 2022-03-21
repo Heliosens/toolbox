@@ -31,28 +31,20 @@
             <a href="">Déconnexion</a>
         </nav>
     </header>
-    <section>
-        <div id="sport">
-            <article>
-                <a href=""></a>
-                <span>ACTIVITES SPORTIVES</span>
-            </article>
+    <section id="band">
+        <div>
+            <span>Activités sportives</span>
         </div>
-        <div id="culture">
-            <article>
-                <span>SORTIES CULTURELLES</span>
-            </article>
+        <div>
+            <span>Activités culturelles</span>
         </div>
-        <div id="numerical">
-            <article>
-                <span>LE NUMERIQUE</span>
-            </article>
+        <div>
+            <span>Le numérique</span>
         </div>
-        <div id="useful">
-            <article>
-                <span>UTILE</span>
-            </article>
+        <div>
+            <span>Boîte à outils</span>
         </div>
     </section>
+    <script src="/assets/js/app.js"></script>
 </body>
 </html>
