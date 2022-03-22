@@ -17,7 +17,7 @@
         <div>
             <nav>
                 <ul>
-                    <li><a href="">ACCUEIL</a></li>
+                    <li><a href="index?c=">ACCUEIL</a></li>
                     <li><a href="">ACTIVITES SPORTIVES</a></li>
                     <li><a href="">SORTIES CULTURELLES</a></li>
                     <li><a href="">LE NUMERIQUE</a></li>
@@ -32,18 +32,19 @@
         </nav>
     </header>
     <section id="band">
-        <div>
+        <a href="">
             <span>Activités sportives</span>
-        </div>
-        <div>
+        </a>
+        <a href="">
             <span>Activités culturelles</span>
-        </div>
-        <div>
+          </a>
+        <a href="">
             <span>Le numérique</span>
-        </div>
-        <div>
+        </a>
+
+        <a href="">
             <span>Boîte à outils</span>
-        </div>
+        </a>
     </section>
     <script src="/assets/js/app.js"></script>
 </body>
